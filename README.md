@@ -113,7 +113,7 @@ pip install 325-router
 
 **This repo (free)**: Classification algorithm. BYOK mode. You bring your own API keys. ~87% accuracy on classification. ~65% token savings.
 
-**[325 Unified API](https://empire325marketing.com/api) (paid)**: Same classification engine, optimized to 100% accuracy. 10+ models. 8 providers. Automatic failover. Research API. Code generation. $29-199/month.
+**[325 Unified API](https://ai.empire325marketing.com) (paid)**: Same classification engine, optimized to 100% accuracy. 10+ models. 8 providers. Automatic failover. Research API. Code generation. $29-199/month.
 
 **The open-source router shows you the concept. The managed API runs it at production scale.**
 
